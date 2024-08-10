@@ -1,0 +1,16 @@
+Transaction ID             object
+Date                       object
+Day of Week                object
+Time                        int64
+Type of Card               object
+Entry Mode                 object
+Amount                     object
+Type of Transaction        object
+Merchant Group             object
+Country of Transaction     object
+Shipping Address           object
+Country of Residence       object
+Gender                     object
+Age                       float64
+Bank                       object
+Fraud                       int64
